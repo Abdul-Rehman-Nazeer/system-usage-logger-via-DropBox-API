@@ -7,7 +7,7 @@
 #include <curl/curl.h>
 
 #define LOG_FILE "system_usage.log"
-#define DROPBOX_TOKEN "sl.CBn2P3rvxayMZfblhHBohP-RavTLFXRQapyuq1DlMpUl9BIKE6EoOuhBz2ajrZdEbWxN-jFr6joA8VotTCLOLUZWqtSA7xv5kqaxd0dgcFS2XWOWagvUmOpslqoA3-Ph1uUm1rTVmYqL"
+#define DROPBOX_TOKEN "INSERT YOUR API TOKEN HERE"
 
 // Function to log detailed system usage (CPU, Memory, Disk, Processes, Network, Swap)
 void log_system_usage() {
