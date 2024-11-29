@@ -1,11 +1,99 @@
-[Fri Nov 29 03:56:39 2024
-]
-CPU Usage: cpu  921 0 1253 56926 0 127 0 0 0 0
-MemTotal:        8282936 kB
-MemFree:         4184664 kB
-Disk Usage: Total: 120881 MB, Used: 94347 MB, Free: 26534 MB
-Processes: 0.52 0.58 0.59 1/5 41
-Network Usage (eth0/wlan0):   eth0:       0       0    0    0    0     0          0         0        0       0    0    0    0     0       0          0
-SwapTotal:      15472892 kB
-SwapFree:       15446272 kB
+[Fri Nov 29 11:32:59 2024]
+---------------------------------
+CPU Usage:
+    - User Time:       610366 ticks (01:41:43)
+    - Nice Time:       0 ticks (00:00:00)
+    - System Time:     146793 ticks (00:24:27)
+    - Idle Time:       2051005 ticks (05:41:50)
+    - I/O Wait Time:   0 ticks (00:00:00)
+    - IRQ Time:        6300 ticks (00:01:03)
+    - SoftIRQ Time:    0 ticks (00:00:00)
+    - Steal Time:      0 ticks (00:00:00)
+    - Guest Time:      0 ticks (00:00:00)
+    - Guest Nice Time: 0 ticks (00:00:00)
+Memory Usage:
+    - Total Memory:   8088 MB
+    - Free Memory:    4408 MB
+Disk Usage:
+    - Total Disk:     118 GB
+    - Used Disk:      92 GB
+    - Free Disk:      25 GB
+Process Info:
+    - Load Averages:  0.52 (1 min), 0.58 (5 min), 0.59 (15 min)
+    - Running Tasks:  1
+    - Total Tasks:    5
+    - Last PID:       212
+Network Usage (eth0):
+    - Received: 0 B
+    - Sent:     0 B
+Swap Usage:
+    - Total Swap:     15110 MB
+    - Free Swap:      12577 MB
+---------------------------------
+
+[Fri Nov 29 11:53:04 2024]
+---------------------------------
+CPU Usage:
+    - User Time:       621400 ticks (01:43:34)
+    - Nice Time:       0 ticks (00:00:00)
+    - System Time:     162170 ticks (00:27:01)
+    - Idle Time:       2504823 ticks (06:57:28)
+    - I/O Wait Time:   0 ticks (00:00:00)
+    - IRQ Time:        6878 ticks (00:01:08)
+    - SoftIRQ Time:    0 ticks (00:00:00)
+    - Steal Time:      0 ticks (00:00:00)
+    - Guest Time:      0 ticks (00:00:00)
+    - Guest Nice Time: 0 ticks (00:00:00)
+Memory Usage:
+    - Total Memory:   8088 MB
+    - Free Memory:    4730 MB
+Disk Usage:
+    - Total Disk:     118 GB
+    - Used Disk:      92 GB
+    - Free Disk:      25 GB
+Process Info:
+    - Load Averages:  0.52 (1 min), 0.58 (5 min), 0.59 (15 min)
+    - Running Tasks:  1
+    - Total Tasks:    5
+    - Last PID:       231
+Network Usage (eth0):
+    - Received: 0 B
+    - Sent:     0 B
+Swap Usage:
+    - Total Swap:     15110 MB
+    - Free Swap:      12512 MB
+---------------------------------
+
+[Fri Nov 29 11:54:05 2024]
+---------------------------------
+CPU Usage:
+    - User Time:       621836 ticks (01:43:38)
+    - Nice Time:       0 ticks (00:00:00)
+    - System Time:     162913 ticks (00:27:09)
+    - Idle Time:       2528249 ticks (07:01:22)
+    - I/O Wait Time:   0 ticks (00:00:00)
+    - IRQ Time:        6908 ticks (00:01:09)
+    - SoftIRQ Time:    0 ticks (00:00:00)
+    - Steal Time:      0 ticks (00:00:00)
+    - Guest Time:      0 ticks (00:00:00)
+    - Guest Nice Time: 0 ticks (00:00:00)
+Memory Usage:
+    - Total Memory:   8088 MB
+    - Free Memory:    4728 MB
+Disk Usage:
+    - Total Disk:     118 GB
+    - Used Disk:      92 GB
+    - Free Disk:      25 GB
+Process Info:
+    - Load Averages:  0.52 (1 min), 0.58 (5 min), 0.59 (15 min)
+    - Running Tasks:  1
+    - Total Tasks:    5
+    - Last PID:       232
+Network Usage (eth0):
+    - Received: 0 B
+    - Sent:     0 B
+Swap Usage:
+    - Total Swap:     15110 MB
+    - Free Swap:      12513 MB
+---------------------------------
 
